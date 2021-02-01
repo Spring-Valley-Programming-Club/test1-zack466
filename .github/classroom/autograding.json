@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Created file1",
+      "setup": "",
+      "run": "test -f \"file1\"",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
